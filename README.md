@@ -115,12 +115,11 @@ Modern, animated portfolio with glassmorphism UI and performance-first build.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shahroznasir&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=7B2CBF&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahroznasir&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=c9d1d9"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=shahroznasir&theme=radical&hide_border=true&background=0D1117&ring=00F5D4&fire=7B2CBF&currStreakLabel=00F5D4"/>
+<!-- These are generated and committed by .github/workflows/main.yml —
+     static files hosted in this repo, not a live third-party API,
+     so they never show a broken-image icon. Regenerates daily. -->
+<img src="./generated/overview.svg" width="48%"/>
+<img src="./generated/languages.svg" width="48%"/>
 
 </div>
 

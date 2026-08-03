@@ -1,0 +1,42 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    # Regenerates the stats every day at 00:00 UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    name: Generate stats images
+    steps:
+      - name: Generate stats
+        uses: jstrieb/github-stats@master
+        with:
+          username: shahroznasir
+          exclude_repos: ""
+          exclude_langs: ""
+          include_all_commits: false
+          line_efficiency_line_count_cutoff: 10
+          line_efficiency_show_percentage: true
+          line_efficiency_diff_ignore_globs: ""
+          line_efficiency_folder_ignore_globs: ""
+        env:
+          # Uses the default token GitHub provides to Actions automatically —
+          # no manual secret setup needed.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit generated files
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add generated/*
+          git commit -m "Update generated stats" || echo "No changes to commit"
+          git push
