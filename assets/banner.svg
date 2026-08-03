@@ -1,0 +1,171 @@
+<svg fill="none" viewBox="0 0 1000 340" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes pulse {
+          0%, 100% { opacity: 0.6; transform: scale(1); }
+          50% { opacity: 1; transform: scale(1.03); }
+        }
+        @keyframes float {
+          0%, 100% { transform: translateY(0px); }
+          50% { transform: translateY(-8px); }
+        }
+        @keyframes gradient {
+          0% { background-position: 0% 50%; }
+          50% { background-position: 100% 50%; }
+          100% { background-position: 0% 50%; }
+        }
+        @keyframes shine {
+          0% { left: -100%; }
+          100% { left: 200%; }
+        }
+        .container {
+          width: 1000px;
+          height: 340px;
+          background: #090d16;
+          border-radius: 20px;
+          box-sizing: border-box;
+          position: relative;
+          overflow: hidden;
+          font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+          border: 1px solid rgba(0, 245, 212, 0.2);
+          box-shadow: 0 20px 50px rgba(0, 0, 0, 0.6), inset 0 0 30px rgba(123, 44, 191, 0.15);
+        }
+        .bg-grid {
+          position: absolute;
+          width: 100%;
+          height: 100%;
+          background-image: 
+            linear-gradient(to right, rgba(255,255,255,0.03) 1px, transparent 1px),
+            linear-gradient(to bottom, rgba(255,255,255,0.03) 1px, transparent 1px);
+          background-size: 30px 30px;
+        }
+        .glow-orb-1 {
+          position: absolute;
+          top: -50px;
+          left: -50px;
+          width: 300px;
+          height: 300px;
+          background: radial-gradient(circle, rgba(123, 44, 191, 0.4) 0%, rgba(0,0,0,0) 70%);
+          border-radius: 50%;
+          animation: pulse 6s ease-in-out infinite;
+        }
+        .glow-orb-2 {
+          position: absolute;
+          bottom: -50px;
+          right: -50px;
+          width: 350px;
+          height: 350px;
+          background: radial-gradient(circle, rgba(0, 245, 212, 0.35) 0%, rgba(0,0,0,0) 70%);
+          border-radius: 50%;
+          animation: pulse 8s ease-in-out infinite alternate;
+        }
+        .glass-card {
+          position: absolute;
+          top: 35px;
+          left: 40px;
+          right: 40px;
+          bottom: 35px;
+          background: rgba(15, 23, 42, 0.65);
+          backdrop-filter: blur(16px);
+          -webkit-backdrop-filter: blur(16px);
+          border-radius: 16px;
+          border: 1px solid rgba(255, 255, 255, 0.1);
+          padding: 30px 40px;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+          overflow: hidden;
+        }
+        .shine-effect {
+          position: absolute;
+          top: 0;
+          left: -100%;
+          width: 50%;
+          height: 100%;
+          background: linear-gradient(90deg, transparent, rgba(255,255,255,0.05), transparent);
+          transform: skewX(-25deg);
+          animation: shine 7s infinite;
+        }
+        .badge {
+          display: inline-flex;
+          align-items: center;
+          gap: 8px;
+          padding: 6px 16px;
+          border-radius: 20px;
+          background: rgba(0, 245, 212, 0.1);
+          border: 1px solid rgba(0, 245, 212, 0.3);
+          color: #00f5d4;
+          font-size: 13px;
+          font-weight: 600;
+          letter-spacing: 1px;
+          text-transform: uppercase;
+          width: fit-content;
+          margin-bottom: 12px;
+        }
+        .title {
+          font-size: 42px;
+          font-weight: 800;
+          margin: 0;
+          background: linear-gradient(135deg, #ffffff 0%, #00f5d4 50%, #7b2cbf 100%);
+          background-size: 200% auto;
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          animation: gradient 5s ease infinite;
+          letter-spacing: -0.5px;
+        }
+        .subtitle {
+          font-size: 18px;
+          color: #94a3b8;
+          margin-top: 8px;
+          margin-bottom: 20px;
+          font-weight: 400;
+        }
+        .tags-container {
+          display: flex;
+          gap: 12px;
+          flex-wrap: wrap;
+        }
+        .tag {
+          padding: 6px 14px;
+          background: rgba(255, 255, 255, 0.05);
+          border: 1px solid rgba(255, 255, 255, 0.1);
+          border-radius: 8px;
+          color: #e2e8f0;
+          font-size: 13px;
+          font-weight: 500;
+          font-family: 'Fira Code', monospace;
+        }
+        .status-dot {
+          width: 8px;
+          height: 8px;
+          background: #00f5d4;
+          border-radius: 50%;
+          box-shadow: 0 0 10px #00f5d4;
+        }
+      </style>
+      <div class="container">
+        <div class="bg-grid"></div>
+        <div class="glow-orb-1"></div>
+        <div class="glow-orb-2"></div>
+        <div class="glass-card">
+          <div class="shine-effect"></div>
+          <div class="badge">
+            <span class="status-dot"></span>
+            System Online &amp; Engineering
+          </div>
+          <h1 class="title">Shahroz Nasir</h1>
+          <div class="subtitle">AI Systems Architect &amp; High-Performance Async Backend Engineer</div>
+          <div class="tags-container">
+            <span class="tag">⚡ FastAPI / AsyncIO</span>
+            <span class="tag">🤖 AI &amp; LLM Orchestration</span>
+            <span class="tag">🐍 Python Core</span>
+            <span class="tag">🌐 Scalable Web Microservices</span>
+            <span class="tag">📍 Bengaluru, India</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
