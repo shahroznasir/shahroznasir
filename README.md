@@ -1,11 +1,7 @@
-<div align="center">
+<p align="center">
+  <img src="assets/banner.svg" alt="Shahroz Nasir Hero Banner" width="100%" />
+</p>
 
-![Shahroz Nasir Hero Banner](https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/banner.svg)
-
-<br/>
-<br/>
-
-<!-- QUICK BADGES -->
 <p align="center">
   <a href="https://shahroznasir.github.io">
     <img src="https://img.shields.io/badge/Portfolio-shahroznasir.github.io-00F5D4?style=for-the-badge&logo=github&logoColor=black" />
@@ -17,24 +13,24 @@
   <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-7B2CBF?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
-</div>
-
 <br/>
 
-![Divider](https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/divider.svg)
+<p align="center">
+  <img src="assets/divider.svg" width="100%" />
+</p>
 
 <br/>
 
 <!-- INTERACTIVE TERMINAL INTRO -->
-<div align="center">
-
-![Shahroz Terminal](https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/terminal.svg)
-
-</div>
+<p align="center">
+  <img src="assets/terminal.svg" alt="Shahroz Terminal" width="100%" />
+</p>
 
 <br/>
 
-![Divider](https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/divider.svg)
+<p align="center">
+  <img src="assets/divider.svg" width="100%" />
+</p>
 
 <br/>
 
@@ -76,21 +72,23 @@ if __name__ == "__main__":
 
 <br/>
 
-![Divider](https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/divider.svg)
+<p align="center">
+  <img src="assets/divider.svg" width="100%" />
+</p>
 
 <br/>
 
 ## 🏗️ Async System & AI Pipeline Architecture
 
-<div align="center">
-
-![System Architecture Diagram](https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/architecture.svg)
-
-</div>
+<p align="center">
+  <img src="assets/architecture.svg" alt="System Architecture Diagram" width="100%" />
+</p>
 
 <br/>
 
-![Divider](https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/divider.svg)
+<p align="center">
+  <img src="assets/divider.svg" width="100%" />
+</p>
 
 <br/>
 
@@ -135,7 +133,9 @@ if __name__ == "__main__":
 
 <br/>
 
-![Divider](https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/divider.svg)
+<p align="center">
+  <img src="assets/divider.svg" width="100%" />
+</p>
 
 <br/>
 
@@ -196,7 +196,9 @@ if __name__ == "__main__":
 
 <br/>
 
-![Divider](https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/divider.svg)
+<p align="center">
+  <img src="assets/divider.svg" width="100%" />
+</p>
 
 <br/>
 
@@ -208,7 +210,9 @@ if __name__ == "__main__":
 
 <br/>
 
-![Divider](https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/divider.svg)
+<p align="center">
+  <img src="assets/divider.svg" width="100%" />
+</p>
 
 <br/>
 
@@ -229,7 +233,9 @@ if __name__ == "__main__":
 
 <br/>
 
-![Divider](https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/divider.svg)
+<p align="center">
+  <img src="assets/divider.svg" width="100%" />
+</p>
 
 <br/>
 
@@ -241,7 +247,9 @@ if __name__ == "__main__":
 
 <br/>
 
-![Divider](https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/divider.svg)
+<p align="center">
+  <img src="assets/divider.svg" width="100%" />
+</p>
 
 <br/>
 
@@ -254,7 +262,9 @@ This repository is powered by automated **GitHub Actions**:
 
 <br/>
 
-![Divider](https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/divider.svg)
+<p align="center">
+  <img src="assets/divider.svg" width="100%" />
+</p>
 
 <br/>
 
@@ -279,8 +289,6 @@ This repository is powered by automated **GitHub Actions**:
 <br/>
 
 <!-- ANIMATED FOOTER -->
-<div align="center">
-
-![Shahroz Footer](https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/footer.svg)
-
-</div>
+<p align="center">
+  <img src="assets/footer.svg" alt="Shahroz Footer" width="100%" />
+</p>
