@@ -12,11 +12,11 @@
 
   <!-- Left Text -->
   <text x="50" y="65" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="14" font-weight="500">
-    Designed with ❤️ for <tspan fill="#00f5d4" font-weight="bold">Shahroz Nasir</tspan> &bull; Powered by <tspan fill="#c77dff" font-weight="bold">FastAPI &amp; AI Technologies</tspan>
+    Designed with ❤️ for <tspan fill="#00f5d4" font-weight="bold">Shahroz Nasir</tspan> • Powered by <tspan fill="#c77dff" font-weight="bold">FastAPI &amp; AI Technologies</tspan>
   </text>
 
   <!-- Right Text -->
   <text x="950" y="65" fill="#00f5d4" font-family="system-ui, sans-serif" font-size="14" font-weight="bold" text-anchor="end">
-    Bengaluru, India 🇮🇳 &bull; Continuous Innovation
+    Bengaluru, India 🇮🇳 • Continuous Innovation
   </text>
 </svg>
