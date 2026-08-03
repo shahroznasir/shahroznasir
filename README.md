@@ -115,11 +115,8 @@ Modern, animated portfolio with glassmorphism UI and performance-first build.
 
 <div align="center">
 
-<!-- These are generated and committed by .github/workflows/main.yml —
-     static files hosted in this repo, not a live third-party API,
-     so they never show a broken-image icon. Regenerates daily. -->
-<img src="./generated/overview.svg" width="48%"/>
-<img src="./generated/languages.svg" width="48%"/>
+<img src="https://raw.githubusercontent.com/shahroznasir/github-stats/generated/generated/overview.svg" width="48%"/>
+<img src="https://raw.githubusercontent.com/shahroznasir/github-stats/generated/generated/languages.svg" width="48%"/>
 
 </div>
 
