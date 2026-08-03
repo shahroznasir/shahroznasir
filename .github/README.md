@@ -6,8 +6,7 @@
 
 <a href="https://github.com/shahroznasir"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://shahroznasir.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00F5D4" alt="Portfolio"/></a>
-<!-- TODO: replace with your actual LinkedIn URL -->
-<a href="https://linkedin.com/in/your-linkedin-handle" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+<a href="https://linkedin.com/in/shahroznasir" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:mdshahroznasir@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
 
 <br><br>
