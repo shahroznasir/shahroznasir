@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-<img src="https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/banner.svg" alt="Shahroz Nasir Hero Banner" width="100%" />
+![Shahroz Nasir Hero Banner](https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/banner.svg)
 
 <br/>
 <br/>
@@ -22,18 +21,20 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/divider.svg" width="100%" />
+![Divider](https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/divider.svg)
 
 <br/>
 
 <!-- INTERACTIVE TERMINAL INTRO -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/terminal.svg" alt="Shahroz Terminal" width="100%" />
+
+![Shahroz Terminal](https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/terminal.svg)
+
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/divider.svg" width="100%" />
+![Divider](https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/divider.svg)
 
 <br/>
 
@@ -42,19 +43,20 @@
 ```python
 class ShahrozNasir:
     """
-    AI Systems Architect & High-Performance Async Backend Engineer based in Bengaluru, India.
+    AI & Backend Software Engineer based in Bengaluru, India.
+    Specializing in FastAPI, LLM Orchestration, and High-Throughput Async Distributed Systems.
     """
     def __init__(self):
         self.name = "Shahroz Nasir"
         self.handle = "@shahroznasir"
-        self.role = "AI Engineer & Full-Stack Architect"
+        self.role = "AI & Backend Software Engineer"
         self.location = "Bengaluru, KA, India 🇮🇳"
         self.languages = ["Python", "JavaScript", "TypeScript", "HTML5", "CSS3", "C++"]
         self.core_frameworks = ["FastAPI", "AsyncIO", "Node.js", "Express.js", "REST APIs"]
         self.ai_focus = ["LLM Orchestration", "Agentic Workflows", "Vector Search", "NLP Parsers"]
 
     def current_mission(self) -> str:
-        return "Architecting resilient, async, microsecond-latency AI & Web Infrastructure."
+        return "Engineering AI systems with microsecond performance, reliability, and clean architecture."
 
     def get_contact_info(self) -> dict:
         return {
@@ -74,19 +76,21 @@ if __name__ == "__main__":
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/divider.svg" width="100%" />
+![Divider](https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/divider.svg)
 
 <br/>
 
 ## 🏗️ Async System & AI Pipeline Architecture
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/architecture.svg" alt="System Architecture Diagram" width="100%" />
+
+![System Architecture Diagram](https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/architecture.svg)
+
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/divider.svg" width="100%" />
+![Divider](https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/divider.svg)
 
 <br/>
 
@@ -131,7 +135,7 @@ if __name__ == "__main__":
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/divider.svg" width="100%" />
+![Divider](https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/divider.svg)
 
 <br/>
 
@@ -192,7 +196,7 @@ if __name__ == "__main__":
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/divider.svg" width="100%" />
+![Divider](https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/divider.svg)
 
 <br/>
 
@@ -204,7 +208,7 @@ if __name__ == "__main__":
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/divider.svg" width="100%" />
+![Divider](https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/divider.svg)
 
 <br/>
 
@@ -225,7 +229,7 @@ if __name__ == "__main__":
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/divider.svg" width="100%" />
+![Divider](https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/divider.svg)
 
 <br/>
 
@@ -237,7 +241,7 @@ if __name__ == "__main__":
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/divider.svg" width="100%" />
+![Divider](https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/divider.svg)
 
 <br/>
 
@@ -250,7 +254,7 @@ This repository is powered by automated **GitHub Actions**:
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/divider.svg" width="100%" />
+![Divider](https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/divider.svg)
 
 <br/>
 
@@ -276,5 +280,7 @@ This repository is powered by automated **GitHub Actions**:
 
 <!-- ANIMATED FOOTER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/footer.svg" alt="Shahroz Footer" width="100%" />
+
+![Shahroz Footer](https://raw.githubusercontent.com/shahroznasir/shahroznasir/main/assets/footer.svg)
+
 </div>

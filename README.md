@@ -43,19 +43,20 @@
 ```python
 class ShahrozNasir:
     """
-    AI Systems Architect & High-Performance Async Backend Engineer based in Bengaluru, India.
+    AI & Backend Software Engineer based in Bengaluru, India.
+    Specializing in FastAPI, LLM Orchestration, and High-Throughput Async Distributed Systems.
     """
     def __init__(self):
         self.name = "Shahroz Nasir"
         self.handle = "@shahroznasir"
-        self.role = "AI Engineer & Full-Stack Architect"
+        self.role = "AI & Backend Software Engineer"
         self.location = "Bengaluru, KA, India 🇮🇳"
         self.languages = ["Python", "JavaScript", "TypeScript", "HTML5", "CSS3", "C++"]
         self.core_frameworks = ["FastAPI", "AsyncIO", "Node.js", "Express.js", "REST APIs"]
         self.ai_focus = ["LLM Orchestration", "Agentic Workflows", "Vector Search", "NLP Parsers"]
 
     def current_mission(self) -> str:
-        return "Architecting resilient, async, microsecond-latency AI & Web Infrastructure."
+        return "Engineering AI systems with microsecond performance, reliability, and clean architecture."
 
     def get_contact_info(self) -> dict:
         return {
