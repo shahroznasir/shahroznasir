@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F0C29,50:302B63,100:24243e&text=SHAHROZ%20NASIR&fontSize=58&fontColor=00F5D4&fontAlignY=40&animation=fadeIn&desc=AI%20Engineer%20•%20Backend%20Engineer&descAlignY=62&descSize=20&descColor=8892b0" alt="Shahroz Nasir banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F0C29,50:302B63,100:24243e&text=SHAHROZ%20NASIR&fontSize=58&fontColor=00F5D4&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20•%20Backend%20Engineer&descAlignY=58&descSize=18&descColor=8892b0" alt="Shahroz Nasir banner"/>
 
 <br>
 
@@ -11,115 +11,135 @@
 
 <br><br>
 
-Currently building AI-powered applications and scalable backend platforms from Bengaluru, India.
+<sub>Building production-grade AI applications and scalable backend systems.</sub>
 
 </div>
 
-<br><br>
+<br>
 
 ## `01.` About
 
-I design and ship **production-grade AI and backend systems** — from RAG pipelines to clean, scalable APIs. I care less about buzzwords and more about software that stays maintainable at 2am when something breaks.
+- 🔧 Backend Engineer specializing in **FastAPI** & **Python**
+- 🤖 Building production-grade **AI systems** — RAG pipelines, agentic workflows
+- 📚 Currently deepening skills in **Kubernetes**, **AWS**, distributed systems
+- 🧠 Care more about maintainable code than buzzwords — software that survives 2am when something breaks
+- 🌱 Open to backend & AI collaborations
 
-I enjoy building software that is fast, maintainable, and easy to evolve — whether it's an AI workflow, a backend service, or a full-stack application.
+<br>
 
-```yaml
-role:      AI & Backend Software Engineer
-based_in:  Bengaluru, India
-stack:     Python · FastAPI · LLMs · RAG · PostgreSQL
-building:  Agentic AI systems & production-ready APIs
-principle: Simple > Clever. Working > Perfect. Shipped > Planned.
-```
-
-<br><br>
-
-## `02.` Selected Technologies
+## `02.` Tech Stack
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="12">
-<tr>
-<td align="center" width="140"><img src="https://skillicons.dev/icons?i=python" alt="Python"/><br><sub><b>Python</b></sub></td>
-<td align="center" width="140"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"/><br><sub><b>FastAPI</b></sub></td>
-<td align="center" width="140"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/><br><sub><b>PostgreSQL</b></sub></td>
-<td align="center" width="140"><img src="https://skillicons.dev/icons?i=react" alt="React"/><br><sub><b>React</b></sub></td>
-<td align="center" width="140"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/><br><sub><b>Docker</b></sub></td>
-</tr>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/><br><sub><b>Next.js</b></sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/><br><sub><b>MongoDB</b></sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=redis" alt="Redis"/><br><sub><b>Redis</b></sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" alt="Git"/><br><sub><b>Git</b></sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"/><br><sub><b>Linux</b></sub></td>
-</tr>
-</table>
+**Backend**
 
-**AI Ecosystem**
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker" alt="Backend stack"/>
+
+**AI**
 
 `LangChain` `LlamaIndex` `OpenAI` `Gemini` `Qdrant` `Prompt Engineering` `Tool Calling`
 
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs" alt="Frontend stack"/>
+
 </div>
 
-<br><br>
+<br>
 
-## `03.` Featured Work
+## `03.` Engineering Focus
+
+- Production Backend APIs
+- Agentic AI Systems
+- Retrieval-Augmented Generation (RAG)
+- Scalable System Design
+- Clean Architecture
+- Docker & PostgreSQL
+
+<br>
+
+## `04.` Featured Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 <a href="https://github.com/shahroznasir/flipkart-clone">Flipkart Clone Backend</a>
-Production-style ecommerce backend built on Clean Architecture — auth, cart, checkout, orders, payments.
+### 🛒 Flipkart Clone Backend
+Production-style ecommerce backend built on Clean Architecture, with dedicated modules for auth, cart, checkout, orders, and payments.
 
 `FastAPI` `PostgreSQL` `SQLAlchemy` `JWT` `Docker`
+
+<a href="https://github.com/shahroznasir/flipkart-clone"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 <a href="https://github.com/shahroznasir/resume-analyzer">AI Resume Analyzer</a>
-LLM-powered resume analysis with ATS scoring, semantic parsing, and AI-generated suggestions.
+### 🤖 AI Resume Analyzer
+LLM-powered resume analysis featuring ATS scoring, OCR extraction, semantic matching, and AI-generated recommendations.
 
 `Python` `LLMs` `OCR` `FastAPI` `RAG`
+
+<a href="https://github.com/shahroznasir/resume-analyzer"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎥 <a href="https://github.com/shahroznasir/youtube-summarizer">AI YouTube Summarizer</a>
-RAG pipeline that turns video transcripts into structured, queryable summaries.
+### 🎥 AI YouTube Summarizer
+RAG pipeline that converts video transcripts into structured, queryable summaries using vector search.
 
 `Streamlit` `Gemini` `Qdrant` `RAG`
+
+<a href="https://github.com/shahroznasir/youtube-summarizer"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 <a href="https://github.com/shahroznasir/shahroznasir.github.io">Portfolio Website</a>
-Modern, animated portfolio with glassmorphism UI and performance-first build.
+### 🌐 Portfolio Website
+React + Tailwind portfolio with Framer Motion transitions and a performance-first build.
 
 `React` `TailwindCSS` `Framer Motion`
+
+<a href="https://shahroznasir.github.io"><img src="https://img.shields.io/badge/Live-00F5D4?style=flat-square&logo=vercel&logoColor=black" alt="Live"/></a>
+<a href="https://github.com/shahroznasir/shahroznasir.github.io"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
 
 </td>
 </tr>
 </table>
 
-<br><br>
+<br>
 
-## `04.` Currently
+## `05.` Currently
 
-```text
-Building   → Agentic AI workflows & production APIs
+```python
+class Shahroz:
+    role = "AI & Backend Engineer"
 
-Learning   → Kubernetes • AWS • Distributed Systems
+    currently_learning = [
+        "Kubernetes", "AWS", "Distributed Systems"
+    ]
 
-Exploring  → Event-Driven Architecture • MLOps
+    currently_building = [
+        "Agentic AI workflows", "Production-ready APIs"
+    ]
 
-Ask Me     → FastAPI • RAG • LLM Architecture
+    exploring = [
+        "Event-Driven Architecture", "MLOps"
+    ]
+
+    open_to = [
+        "Open Source", "Backend & AI Collaborations"
+    ]
+
+    ask_me_about = [
+        "FastAPI", "RAG", "LLM Architecture"
+    ]
 ```
 
-<br><br>
+<br>
 
-## `05.` GitHub Activity
+## `06.` GitHub Activity
 
 <div align="center">
 
@@ -128,16 +148,24 @@ Ask Me     → FastAPI • RAG • LLM Architecture
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=shahroznasir&theme=transparent&hide_border=true" alt="GitHub streak stats" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=shahroznasir&theme=transparent&hide_border=true" width="48%" alt="GitHub streak stats"/>
 
 </div>
 
-<br><br>
+<br>
+
+## `07.` Connect
 
 <div align="center">
 
-### Let's build something worth shipping.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<a href="mailto:mdshahroznasir@gmail.com"><img src="https://img.shields.io/badge/Say%20hello-00F5D4?style=for-the-badge&logo=gmail&logoColor=black" alt="Say hello"/></a>
+**Let's build something worth shipping.**
+
+<a href="https://linkedin.com/in/shahroznasir"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://shahroznasir.github.io"><img src="https://img.shields.io/badge/Portfolio-00F5D4?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>
+<a href="mailto:mdshahroznasir@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
