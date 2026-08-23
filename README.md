@@ -11,7 +11,7 @@
 
 <br><br>
 
-<sub>Building production-grade AI applications and scalable backend systems.</sub>
+<sub>Building production-grade AI agents, RAG pipelines, and scalable backend platforms.</sub>
 
 </div>
 
@@ -19,11 +19,11 @@
 
 ## `01.` About
 
-- 🔧 Backend Engineer specializing in **FastAPI** & **Python**
-- 🤖 Building production-grade **AI systems** — RAG pipelines, agentic workflows
-- 📚 Currently deepening skills in **Kubernetes**, **AWS**, distributed systems
+- 🔧 Backend Engineer specializing in **FastAPI**, **Python**, & **AsyncIO**
+- 🤖 Building production-grade **AI systems** — Multi-Agent workflows, RAG pipelines, Conversational AI
+- 📚 Currently deepening skills in **Kubernetes**, **AWS**, **Distributed Systems**
 - 🧠 Care more about maintainable code than buzzwords — software that survives 2am when something breaks
-- 🌱 Open to backend & AI collaborations
+- 🌱 Open to AI Engineering & Backend collaborations
 
 <br>
 
@@ -31,17 +31,17 @@
 
 <div align="center">
 
-**Backend**
+**Backend & Cloud**
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker" alt="Backend stack"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,linux,git" alt="Backend stack"/>
 
-**AI**
+**AI & Machine Learning**
 
-`LangChain` `LlamaIndex` `OpenAI` `Gemini` `Qdrant` `Prompt Engineering` `Tool Calling`
+`LangChain` `LlamaIndex` `AI Agents` `OpenAI` `Gemini` `Qdrant` `RAG Pipelines` `Prompt Engineering`
 
-**Frontend**
+**Languages & Web**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs" alt="Frontend stack"/>
+<img src="https://skillicons.dev/icons?i=ts,js,html,css" alt="Languages & Frontend"/>
 
 </div>
 
@@ -49,12 +49,11 @@
 
 ## `03.` Engineering Focus
 
-- Production Backend APIs
-- Agentic AI Systems
-- Retrieval-Augmented Generation (RAG)
-- Scalable System Design
-- Clean Architecture
-- Docker & PostgreSQL
+- Autonomous AI Agents & Multi-Agent Workflows
+- High-Performance FastAPI Asynchronous APIs
+- Retrieval-Augmented Generation (RAG) & Vector Search
+- Clean Architecture & Repository Design Patterns
+- Production API Design & Distributed Microservices
 
 <br>
 
@@ -64,49 +63,52 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 Flipkart Clone Backend
-Production-style ecommerce backend built on Clean Architecture, with dedicated modules for auth, cart, checkout, orders, and payments.
+### 🤖 <a href="https://github.com/shahroznasir/ai-stock-analyst-alphaagent">AI Stock Analyst AlphaAgent</a>
+Autonomous multi-agent financial intelligence system that performs market analysis, sentiment tracking, and investment evaluation.
 
-`FastAPI` `PostgreSQL` `SQLAlchemy` `JWT` `Docker`
+`TypeScript` `AI Agents` `LLMs` `Market APIs`
 
-<a href="https://github.com/shahroznasir/flipkart-clone"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
+<a href="https://github.com/shahroznasir/ai-stock-analyst-alphaagent"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI Resume Analyzer
-LLM-powered resume analysis featuring ATS scoring, OCR extraction, semantic matching, and AI-generated recommendations.
+### 💬 <a href="https://github.com/shahroznasir/banking-conversational-agent">Banking Conversational Agent</a>
+Intelligent AI assistant designed for secure banking transactions, account queries, and automated customer support workflows.
 
-`Python` `LLMs` `OCR` `FastAPI` `RAG`
+`Python` `LLMs` `FastAPI` `LangChain` `AsyncIO`
 
-<a href="https://github.com/shahroznasir/resume-analyzer"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
+<a href="https://github.com/shahroznasir/banking-conversational-agent"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎥 AI YouTube Summarizer
-RAG pipeline that converts video transcripts into structured, queryable summaries using vector search.
+### 📚 <a href="https://github.com/shahroznasir/document-rag-assistant">Document RAG Assistant</a>
+Production RAG pipeline for processing, indexing, and querying multi-format documents using vector embeddings and semantic search.
 
-`Streamlit` `Gemini` `Qdrant` `RAG`
+`Python` `RAG` `Qdrant` `Embeddings` `FastAPI`
 
-<a href="https://github.com/shahroznasir/youtube-summarizer"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
+<a href="https://github.com/shahroznasir/document-rag-assistant"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Portfolio Website
-React + Tailwind portfolio with Framer Motion transitions and a performance-first build.
+### ⚡ <a href="https://github.com/shahroznasir/TripPlanner">TripPlanner Async API</a>
+High-concurrency async travel planner REST API built with FastAPI and HTTPX for automated itinerary generation.
 
-`React` `TailwindCSS` `Framer Motion`
+`FastAPI` `Python` `AsyncIO` `HTTPX` `Docker`
 
-<a href="https://shahroznasir.github.io"><img src="https://img.shields.io/badge/Live-00F5D4?style=flat-square&logo=vercel&logoColor=black" alt="Live"/></a>
-<a href="https://github.com/shahroznasir/shahroznasir.github.io"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
+<a href="https://github.com/shahroznasir/TripPlanner"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+<sub>More projects: <a href="https://github.com/shahroznasir/ecommerce-platform-backend">ecommerce-platform-backend</a> · <a href="https://github.com/shahroznasir/youtube-ai-assistant">youtube-ai-assistant</a> · <a href="https://github.com/shahroznasir/web-data-extractor">web-data-extractor</a></sub>
+</div>
 
 <br>
 
@@ -121,19 +123,19 @@ class Shahroz:
     ]
 
     currently_building = [
-        "Agentic AI workflows", "Production-ready APIs"
+        "Autonomous AI Agents", "Production-grade APIs"
     ]
 
     exploring = [
-        "Event-Driven Architecture", "MLOps"
+        "Event-Driven Architecture", "Multi-Agent Workflows", "MLOps"
     ]
 
     open_to = [
-        "Open Source", "Backend & AI Collaborations"
+        "Open Source", "AI Engineering & Backend Roles"
     ]
 
     ask_me_about = [
-        "FastAPI", "RAG", "LLM Architecture"
+        "FastAPI", "AI Agents", "RAG Pipelines", "System Design"
     ]
 ```
 
